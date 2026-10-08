@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Player 2 Provider",
+    "description": "Custom CloudStream provider for Player 2 extraction via coverapi.store",
+    "authors": ["mrpiks226"],
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/mrpiks226/YOUR_REPO_NAME/master/Player2Provider.py",
+    "iconUrl": "",
+    "types": ["movie", "tv"],
+    "language": "el"
+  }
+]
